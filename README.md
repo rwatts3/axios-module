@@ -1,4 +1,6 @@
 # Axios
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/nuxt-community/axios-module.svg)](https://greenkeeper.io/)
 [![npm](https://img.shields.io/npm/dt/@nuxtjs/axios.svg?style=flat-square)](https://npmjs.com/package/@nuxtjs/axios)
 [![npm (scoped with tag)](https://img.shields.io/npm/v/@nuxtjs/axios/latest.svg?style=flat-square)](https://npmjs.com/package/@nuxtjs/axios)
 
